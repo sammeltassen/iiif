@@ -26,7 +26,7 @@
   } ],
   "profile" : "http://iiif.io/api/image/2/level0.json",
   "width" : 12192,
-  "@id" : "https://sammeltassen.nl/iiif/1846_Selter_Grundriss-von-Berlin",
+  "@id" : "https://sammeltassen.nl/iiif/images/1846_Selter_Grundriss-von-Berlin",
   "@context" : "http://iiif.io/api/image/2/context.json",
   "height" : 8986
 }
